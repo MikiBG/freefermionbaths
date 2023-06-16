@@ -1,4 +1,4 @@
-# FreeFermionBaths
+# Free Fermion Baths
 
 This repository contains the code used to generate the data presented in 
 
