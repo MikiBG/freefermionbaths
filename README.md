@@ -1,5 +1,7 @@
 # Free Fermion Baths
 
+[![DOI](https://zenodo.org/badge/654525915.svg)](https://zenodo.org/badge/latestdoi/654525915)
+
 This repository contains the code used to generate the data presented in 
 
 B. Windt, M. Bello, E. Demler, J. I. Cirac. *Fermionic matter-wave quantum optics with cold-atom impurity models*. arXiv:2305.11610 [quant-ph]
