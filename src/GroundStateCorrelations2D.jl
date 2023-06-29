@@ -6,7 +6,7 @@ using a fast Fourier transform.
 module GroundStateCorrelations2D
 export impurity_correlations_10, impurity_correlations_11, bath_correlations
 
-include("./resolvent/myselfenergies.jl")
+include("./resolvent/self-energies.jl")
 using QuadGK, FFTW
 
 """
